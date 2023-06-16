@@ -126,7 +126,7 @@ export const stores: store[] = [
     main: {
       soup: ["担々スープ",],
       style: ["ラーメン", "つけ麺"],
-      men: ["細麺"],
+      men: ["ほそ麺"],
       address: ["943-0825", "新潟県上越市東本町3-2-59"],
       pay: ["現金", "クレジットカード","PayPay","電子マネー"],
       seat: {
